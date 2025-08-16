@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="AI Resume Parser Banner" width="80%">
+  <img src="https://raw.githubusercontent.com/Tejas3545/ai_resume_parser/main/assets/banner.png" width="80%">
 </p>
 
 
