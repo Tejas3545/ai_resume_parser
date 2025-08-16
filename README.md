@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tejas3545/ai_resume_parser/main/assets/banner.png" width="80%">
+  <img src="[https://raw.githubusercontent.com/Tejas3545/ai_resume_parser/main/assets/banner.png](https://github.com/Tejas3545/ai_resume_parser/blob/main/assests/banner.png)" width="80%">
 </p>
 
 
