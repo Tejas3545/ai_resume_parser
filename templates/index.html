@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Resume Parser - Upload</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="bg-light">
+
+  <div class="container mt-5">
+    <div class="card shadow-lg p-4 rounded-3">
+      <h2 class="text-center mb-4">📄 Automated Resume Parser</h2>
+
+      <form action="/upload" method="POST" enctype="multipart/form-data">
+        <div class="mb-3">
+          <label class="form-label fw-bold">Upload Resume (PDF/DOCX)</label>
+          <input class="form-control" type="file" name="resume" accept=".pdf,.docx" required>
+        </div>
+
+        <div class="d-flex justify-content-center gap-3 mt-4">
+          <button type="submit" class="btn btn-success px-4">⬆ Upload</button>
+          <button type="reset" class="btn btn-warning px-4">🔄 Reset</button>
+          <a href="/resumes" class="btn btn-primary px-4">📑 View All Resumes</a>
+        </div>
+      </form>
+
+      <div class="text-center mt-4">
+        <p class="text-muted">Supported formats: <strong>PDF, DOCX</strong></p>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
