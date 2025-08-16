@@ -1,7 +1,6 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Tejas3545/ai_resume_parser/assets/images/banner.png" align="center" width="50%">
+  <img src="assets/banner.png" alt="AI Resume Parser Banner" width="80%">
 </p>
-<p align="center"><h1 align="center">AI_RESUME_PARSER</h1></p>
 
 
 ## 📌 Description
